@@ -21,7 +21,7 @@ const Account = props => {
         })}
       </div>
       <div className="see-more">
-        <Button children={"See More"}></Button>
+        <Button children="See More"></Button>
       </div>
     </div>
   );
