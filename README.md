@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/75a8f89d-ce30-4e58-b438-d08356051fb5/deploy-status)](https://app.netlify.com/sites/phv-my-bank/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
